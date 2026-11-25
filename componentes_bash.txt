@@ -1,3 +1,6 @@
 ls = vêr diretório
 cd = move entre diretórios
 pwd = onde estou
+
+cat = exibe
+rm = remove
