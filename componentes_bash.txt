@@ -4,3 +4,4 @@ pwd = onde estou
 
 cat = exibe
 rm = remove
+rm -rf = remove de forma recursiva e forçada todos os diretórios
