@@ -1,0 +1,3 @@
+ls = vêr diretório
+cd = move entre diretórios
+pwd = onde estou
