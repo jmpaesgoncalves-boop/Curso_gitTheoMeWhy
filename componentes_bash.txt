@@ -5,3 +5,18 @@ pwd = onde estou
 cat = exibe
 rm = remove
 rm -rf = remove de forma recursiva e forçada todos os diretórios
+
+
+
+
+#fluxo de Trabalho:
+
+1. criar diretorio do projeto
+2. iniciar o git dentro do diretorio
+3. edita ou cria arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "titulo/desc"
+8. git status
+9. volta pro passo 3
