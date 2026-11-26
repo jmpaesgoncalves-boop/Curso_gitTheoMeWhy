@@ -20,3 +20,4 @@ rm -rf = remove de forma recursiva e forçada todos os diretórios
 7. git commit -m "titulo/desc"
 8. git status ou git log
 9. volta pro passo 3
+10. cu
