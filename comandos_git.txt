@@ -1,4 +1,8 @@
-git init. git status git add nome_arquivo
+git init. 
+git status 
+git add nome_arquivo
 git log = mostra histórico de commit
+
+mensagem estranha: blablabla
 
 
